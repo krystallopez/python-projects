@@ -1,4 +1,4 @@
-# Welcome to the Star Wars Quiz!
+<h1 align="center"> # Welcome to the Star Wars Quiz!</h1>
 
 <p align="center" >
 <img  width=400 src="Kylo-Ren-Approves.gif" alt="animated"/>
