@@ -1,5 +1,4 @@
-# A short interactive quiz that can be performed in the terminal, each time the player gets an answer right they gain a point, each time they get an answer wrong, they lose a point. May change this to where the dont lose any points at all.
-
+# A short interactive quiz that can be performed in the terminal, each time the player gets an answer right they gain a point, if the user gets an answer wrong they do not gain a point. Super simple interactive CLI quiz with some ASCII art. Maybe turn it into one of those quizzes that you see on Facebook.
 print('''     
 .    .        .      .             . .     .        .          .          .
          .                 .                    .                .
@@ -90,8 +89,6 @@ if answer_1 == "1977":
     print(f"\nThat's right! Good job! You earned {score} point(s). \n")
     print(f"Your score is now: {score}\n")
 
-    # Create a variable ifGameIsOn, sset to true then if score is 0 switch to false
-    # create game over function, implement game over ideas, before if loop make sure to check if ifGameOn is true or false, if score is less than 0 isGameOn turns to false then game is over
 else:
     # score -= 1
     print(
@@ -267,6 +264,10 @@ https://asciiart.website/index.php?art=movies/star%20wars
 ''')
 
 
-# need to find a way to keep score in the game
-# score counter would look like: score = 0, if the answer
+# Dev Notes:
+
+# need to find a way to keep score in the game => This was completed.
+# score counter would look like: score = 0, if the answer => This was completed.
 # maybe create another variable for the decreased score so that the math is done properly by the program, like lost_point = score - 1
+# Create a variable ifGameIsOn, set to true then if score is 0 switch to false
+# create game over function, implement game over ideas, before if loop make sure to check if ifGameOn is true or false, if score is less than 0 isGameOn turns to false then game is over
