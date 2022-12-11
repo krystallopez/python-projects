@@ -1,4 +1,4 @@
-<h1 align="center"> <b>Welcome my collection of Python Projects! </h1></b>
+<h1 align="center"> <b>Welcome To My Collection of Python Projects! </h1></b>
 
 <p align="center" >
 <img  width=400 src="Kylo-Ren-Approves.gif" alt="animated"/>
