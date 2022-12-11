@@ -4,9 +4,9 @@
 <img  width=400 src="Kylo-Ren-Approves.gif" alt="animated"/>
 </p>
 
-This repo is compilation of a bunch of different Python projects that I have built over the last couple of weeks. One of them is a fun, interactive quiz, that can be run within the terminal. The subjec if the quiz is Star Wars! Every time you get a question right, you earn a point, however, if you answer a question wrong you don't earn any points. Test your knowledge of Star Wars and see how many questions you can get right! May the force be with you!
+This repo is a compilation of several different Python projects that I have built over the last couple of weeks. One of them is a fun, interactive quiz, that can be run within the terminal. The subject of the quiz is Star Wars! Every time the user gets a question right, they earn a point, however, if the user gets an answer wrong they don't earn any points. Using a score counter, the program is able to keep track of the user's score. Test your knowledge of Star Wars and see how many questions you can get right! May the force be with you!
 
-The second project is a Rock, Papers scissors game, where you can choose Rock, Paper, or Scissors and see if you can beat the computer! This game was written in Python using lists and using the random module to generate a random item from the list when the user enters in their choice. 
+The second project is a Rock, Papers scissors game, where you can choose Rock, Paper, or Scissors and see if you can beat the computer! This game was written in Python using lists and using the random module to generate a random item from the list when the user enters in their choice. May the odds be ever in your favor!
 
 For my third project I created a random password generator. You enter in the length of the password and then the program will generate a password for you that consists of random letter, symbols, and numbers. For this project, I created two different versions of the password generator.In the file labeled passwordgen2.py, I used the random module and the string module so that I could define the data I was looking for, randomly sample different characters so that none of the characters are repeated, making for a very secure password. Once all of those characters have been randomly generated, I then joined them together in order to create the password. 
 
