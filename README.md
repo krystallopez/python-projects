@@ -8,7 +8,7 @@
 This repo is a compilation of several different Python projects that I have built over the last couple of weeks. Feel free to browse through each of the files and check out some of my code! Enjoy and thank you for viewing!!
 
  
- ## Project 1: A Star Wars Interactive Quiz (CLI) 
+## Project 1: A Star Wars Interactive Quiz (CLI) 
 This project is a fun  interactive quiz, that can be run within the terminal. The subject of the quiz is Star Wars! Every time the user gets a question right, they earn a point, however, if the user gets an answer wrong they don't earn any points. Using a score counter, the program is able to keep track of the user's score. Test your knowledge of Star Wars and see how many questions you can get right! May the force be with you!
 
 ## Project 2: Rock, Paper, Scissors Game (CLI)
