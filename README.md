@@ -14,7 +14,7 @@ This project is a fun  interactive quiz, that can be run within the terminal. Th
 ## Project 2: Rock, Paper, Scissors Game (CLI)
 The second project is a Rock, Papers scissors game, where you can choose Rock, Paper, or Scissors and see if you can beat the computer! This game was written in Python using lists and using the random module to generate a random item from the list when the user enters in their choice. May the odds be ever in your favor!
 
-##Project 3: Password Generator 1 & 2
+## Project 3: Password Generator 1 & 2
 
 For my third project I created a random password generator. You enter in the length of the password and then the program will generate a password for you that consists of random letter, symbols, and numbers. For this project, I created two different versions of the password generator. In the file labeled passwordgen2.py, I used the random module and the string module so that I could define the data I was looking for, randomly sample different characters so that none of the characters are repeated, making for a very secure password. Once all of those characters are randomly generated, they are then joined  together in order to create the password. 
 
