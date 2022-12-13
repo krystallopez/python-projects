@@ -43,9 +43,9 @@ print("Alright let's start with our first question!\n")
 response_1 = input(
     "Question 1: What super villain once broke Batman's back, leaving him crippled and wheelchair-bound?\n")
 
-if (response_1 == "Bane".lower()):
+if (response_1.lower() == "Bane".lower()):
     correct_question += 1
-    print("Correct! You got it!\n")
+    print("\nCorrect! You got it!\n")
 else:
     print("Sorry, the correct answer is Bane. Have you ever even read a comic book?!\n")
 
@@ -53,9 +53,9 @@ else:
 print("Second question!\n")
 response_2 = input("Question 2: Who is credited with creating Batman?\n")
 
-if (response_2 == "Bob Kane".lower()):
+if (response_2.lower() == "Bob Kane".lower()):
     correct_question += 1
-    print("Correct! Good Job!\n")
+    print("\nCorrect! Good Job!\n")
 else:
     print("WRONG!, the correct answer is Bob Kane. Better luck on the next question\n")
 
@@ -63,9 +63,9 @@ else:
 print("You are on fire, let's keep it going!\n")
 response_3 = input("Question 3: What was Batman's other identity?\n")
 
-if (response_3 == "Bruce Wayne".lower()):
+if (response_3.lower() == "Bruce Wayne".lower()):
     correct_question += 1
-    print("Correct! You got that one right!\n")
+    print("\nCorrect! You got that one right!\n")
 else:
     print("Darn, the correct answer is Bruce Wayne. You are a really bad at this.\n")
 
@@ -73,9 +73,9 @@ else:
 print("Onto the next question\n")
 response_4 = input("Question 4: What is the Riddler's real name?\n")
 
-if (response_4 == "Edward Nigma".lower()):
+if (response_4.lower() == "Edward Nigma".lower()):
     correct_question += 1
-    print("Correct! Good Job! The Riddler would be proud!\n")
+    print("\nCorrect! Good Job! The Riddler would be proud!\n")
 else:
     print("Sorry, the correct answer is Edward Nigma.\n")
 
@@ -83,9 +83,9 @@ else:
 print("Let's keep the momentum going..\n")
 response_5 = input("Question 5: What was the name of Bruce Wayne's butler?\n")
 
-if (response_5 == "Alfred".lower()):
+if (response_5.lower() == "Alfred".lower()):
     correct_question += 1
-    print("Correct! Good Job!\n")
+    print("\nCorrect! Good Job!\n")
 else:
     print("Sorry, the correct answer is Alfred. C'mon, you gotta know some of the answers to some of these questions!\n")
 
@@ -93,9 +93,9 @@ else:
 print("We are almost at the finish line1 \n")
 response_6 = input("Question 6: On Batman: The Animated Series, who was the voice of the Joker?... Here's a hint, the actor who voices the Joker, was also a famous Jedi in the original Star Wars Trilogy. Can you guess who it is?!\n")
 
-if (response_6 == "Mark Hamill".lower()):
+if (response_6.lower() == "Mark Hamill".lower()):
     correct_question += 1
-    print("Correct! You are really good at this game!\n")
+    print("\nCorrect! You are really good at this game!\n")
 else:
     print("Sorry, the correct answer is Mark Hamill. Clearly, the force is not strong with you.\n")
 
@@ -103,9 +103,9 @@ else:
 print("Ooo this next one, is a tough one!\n")
 response_7 = input("Question 7: What was Harley Quinn's real name?\n")
 
-if (response_7 == "Harleen Quinzel".lower()):
+if (response_7.lower() == "Harleen Quinzel".lower()):
     correct_question += 1
-    print("Correct! You must be Harley's biggest fan!... I don't think the joker would like that!\n")
+    print("\nCorrect! You must be Harley's biggest fan!... I don't think the joker would like that!\n")
 else:
     print("Sorry, the correct answer is Harleen Quinzel. That's okay, this one was a tough one.")
 
@@ -113,9 +113,9 @@ else:
 print("This one is an easy one! You'll get it for sure!\n")
 response_8 = input("Question 8: What is the name of Batman's sidekick?\n")
 
-if (response_8 == "Robin".lower()):
+if (response_8.lower() == "Robin".lower()):
     correct_question += 1
-    print("Correct! Good Job! I knew you would know this one!\n")
+    print("\nCorrect! Good Job! I knew you would know this one!\n")
 else:
     print("Sorry, the correct answer is Robin. Maybe this one wasn't so easy after all..")
 
@@ -124,9 +124,9 @@ print("Second question!\n")
 response_9 = input(
     "Question 9: Who is voiced Batman in Batman: The Animated Series?\n")
 
-if (response_9 == "Kevin Conroy".lower()):
+if (response_9.lower() == "Kevin Conroy".lower()):
     correct_question += 1
-    print("Correct! Good Job! He was the best Batman of all time.\n")
+    print("\nCorrect! Good Job! He was the best Batman of all time.\n")
 else:
     print("Sorry, the correct answer is Kevin Conroy.")
 
@@ -134,9 +134,9 @@ print("Okay this is the last question.\n")
 response_10 = input(
     "Question 10: When did Batman: The Animated Series debut?\n")
 
-if response_10 == "1992".lower():
-    correct_question += 11
-    print("Correct! Good Job! I was only 2 when this came out!\n")
+if response_10.lower() == "1992".lower():
+    correct_question += 1
+    print("\nCorrect! Good Job! I was only 2 when this came out!\n")
 else:
     print("Sorry, the correct answer is 1992.\n")
 
