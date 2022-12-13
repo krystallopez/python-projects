@@ -5,7 +5,7 @@
 </p>-->
 
 ## Introduction 
-This repo is a compilation of several different Python projects that I have built over the last couple of weeks. Feel free to browse through each of the files and check out some of my code! Enjoy and thank you for viewing!!
+This repo is a compilation of several different Python projects that I have built over the last couple of weeks. Feel free to browse through each of the files and check out some of my code! Enjoy and thank you for viewing!! 
 
  
 ## Project 1: A Star Wars Interactive Quiz (CLI) 
@@ -16,7 +16,7 @@ This repo is a compilation of several different Python projects that I have buil
 
 This project is a fun  interactive quiz, that can be run within the terminal. The subject of the quiz is Star Wars! Every time the user gets a question right, they earn a point, however, if the user gets an answer wrong they don't earn any points. Using a score counter, the program is able to keep track of the user's score. Test your knowledge of Star Wars and see how many questions you can get right! May the force be with you!
 
-## Project 2: Rock, Paper, Scissors Game (CLI)
+## Project 2: :rock: , :page_with_curl: , :scissors: (Rock, Pa
 
 <p align="center" >
 <img  width=250 src="rps.gif" alt="animated"/>
@@ -24,7 +24,18 @@ This project is a fun  interactive quiz, that can be run within the terminal. Th
 
 The second project is a Rock, Papers scissors game, where you can choose Rock, Paper, or Scissors and see if you can beat the computer! This game was written in Python using lists and using the random module to generate a random item from the list when the user enters in their choice. May the odds be ever in your favor!
 
-## Project 3: Password Generator 1 & 2
+
+## Project 3: Batman Interactive Quiz :bat:
+
+<p align="center" >
+<img  width=250 src="" alt="animated"/>
+</p>
+
+Similar to my Star Wars quiz, I also made one for Batman trivia as well. I followed the same steps as I did in the Star Wars quiz, however I made some slight changes to the syntax. Instead using print statements for each line, I instead used input statements to make the code just a tad bit cleaner. I used ASCII art for this as well because it is just really cool! I also implented a counter here, however instead of keeping score, I instead just tracked how many questions that the user got correct and printed that out at the end of the quiz. 
+
+
+
+## Project 4 & 5: Password Generator 1 & 2
 
 <p align="center" >
 <img  width=250 src="password.gif" alt="animated"/>
