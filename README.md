@@ -1,4 +1,4 @@
-<h1 align="center"> <b>Welcome To My Collection of Python Projects! </h1></b>
+<h1 align="center"><i>Welcome To My Collection of Python Projects! </h1></i>
 
 <p align="center" >
 <img  width=300 src="hellothere.gif" alt="animated"/>
