@@ -1,6 +1,8 @@
 <h1 align="center"><i>Welcome To My Collection of Python Projects! </h1></i>
 
-![Kylo Ren Gif](/gif/Kylo-Ren-Approves.gif)
+<p align="center" >
+<img  width=300 src="hellothere.gif" alt="animated"/>
+</p>
  
 This repo is a compilation of several different Python projects that I have built over the last couple of weeks. Feel free to browse through each of the files and check out some of my code! Enjoy and thank you for viewing!! 
 
