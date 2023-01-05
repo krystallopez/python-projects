@@ -137,6 +137,7 @@ else:
     # score -= 1
     print(
         f"\nYou have failed me for the last time. The correct answer is Rey.\n")
+    print(f"Your score is now: {score}.\n")
 
 
 print("Wow! You've made it so far! Let's keep going!\n")
