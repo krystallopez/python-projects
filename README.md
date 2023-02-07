@@ -6,6 +6,11 @@
  
 This repo is a compilation of several different Python projects that I have built over the last couple of weeks. Feel free to browse through each of the files and check out some of my code! Enjoy and thank you for viewing!! 
 
+## Installation
+* Make sure to have the latest version of Python installed in your machine
+* Clone this repository to your local machine, using <code>git clone</code>
+* Open a terminal window and enter <code>python3 -filename</code> 
+* Once you have done this, the code will then run in your terminal.
  
 ## Project 1: A Star Wars Interactive Quiz (CLI)
 
